@@ -1,0 +1,51 @@
+.navbar{
+    background-color: aquamarine;
+    padding: 12px 14px;
+}
+
+html,body{
+    padding: 0;
+    margin: 0;
+    background-color: azure;
+}
+
+.navbar a{
+    margin-right: 4px;
+}
+.navbar a:hover{
+    background-color:aliceblue;
+    padding: 12px;
+}
+header{
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    background-color: bisque;
+}
+.about{
+    text-align: center;
+}
+.about img{
+    max-width: 350px;
+    margin-left: 10px;
+    border: solid black;
+}
+
+.about button{
+    justify-content: center;
+    color:blue;
+    background-color: bisque;
+}
+
+.academics h1{
+    text-align: center;
+}
+.academics p{
+    font-size: 20px;
+    margin-right: 20px;
+}
+.academics img{
+    max-width: 200px;
+    margin-left: 20px;
+}
+
